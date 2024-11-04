@@ -1,0 +1,24 @@
+2024-11-03 17:22:56.613 [info] 
+
+
+
+
+2024-11-03 17:22:56.789 [info] Extension host agent started.
+2024-11-03 17:22:57.411 [info] Started initializing default profile extensions in extensions installation folder. file:///home/tommyoguro/.vscode-server/extensions
+2024-11-03 17:22:57.775 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/tommyoguro/.vscode-server/extensions
+2024-11-03 17:22:57.796 [info] [127.0.0.1][847a92bb][ManagementConnection] New connection established.
+2024-11-03 17:22:58.972 [info] Installing extensions...
+2024-11-03 17:22:59.988 [info] [127.0.0.1][52be7c11][ExtensionHostConnection] New connection established.
+2024-11-03 17:23:05.215 [info] [127.0.0.1][52be7c11][ExtensionHostConnection] <793> Launched Extension Host Process.
+2024-11-03 17:23:09.601 [info] Installing extension 'ms-ceintl.vscode-language-pack-ja'...
+2024-11-03 17:23:09.610 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2024-11-03 17:23:09.645 [info] Installing extension: ms-ceintl.vscode-language-pack-ja {"isMachineScoped":true,"isBuiltin":false,"installGivenVersion":false,"isApplicationScoped":true,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/tommyoguro/.vscode-server/extensions/extensions.json","external":"file:///home/tommyoguro/.vscode-server/extensions/extensions.json","path":"/home/tommyoguro/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-03 17:23:25.621 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-ja: Success. Executed: true. Duration: 6839ms.
+2024-11-03 17:23:27.030 [info] Extracted extension to file:///home/tommyoguro/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.95.2024103009: ms-ceintl.vscode-language-pack-ja
+2024-11-03 17:23:27.107 [info] Renamed to /home/tommyoguro/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.95.2024103009
+2024-11-03 17:23:27.214 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+2024-11-03 17:23:27.406 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja file:///home/tommyoguro/.vscode-server/extensions/extensions.json
+2024-11-03 17:23:27.412 [info] Extension 'ms-ceintl.vscode-language-pack-ja' v1.95.2024103009 was successfully installed.
+2024-11-03 17:25:28.551 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-03 17:26:02.256 [info] [127.0.0.1][847a92bb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-03 17:26:08.163 [info] [127.0.0.1][52be7c11][ExtensionHostConnection] <793> Extension Host Process exited with code: 0, signal: null.

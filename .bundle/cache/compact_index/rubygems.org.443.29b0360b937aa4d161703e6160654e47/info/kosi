@@ -1,0 +1,7 @@
+---
+0.0.1 activemodel:~> 4.0.2,activesupport:~> 4.0.1|checksum:e4ef37a21d7069b159bf411efec559371eba3d9e4c842cea389fc55cad410f25
+0.0.2 activemodel:~> 4.0.2,activesupport:~> 4.0.1|checksum:0db1db1a7f0d7677ea3fcbc11769ae8949641a4eb873570786629104bc09fbc3
+1.0.0 unicode:>= 0.4.4|checksum:8ac4bca71be6bfe45c1f508b545d307faf93a3670cea8720231781a1544f9f00
+1.0.1 unicode:>= 0.4.4|checksum:d774b12ae7e37075235bc42ea506f0ad153a9850627147b03783687776c4d83e
+1.1.0 unicode-display_width:~> 1.0,unicode-emoji:~> 0.9|checksum:eb3f184c060d9353027aa17c1b3fe65989b86c69d8adae87c7872f9464a35413,ruby:~> 2.0
+1.2.0 unicode-display_width:~> 1.0,unicode-emoji:~> 1.1|checksum:b0206f8474fba370b9aeb9253fbecbe0127802a23000a35488f57a3e2ea03b2c,ruby:~> 2.3

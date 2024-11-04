@@ -1,0 +1,15 @@
+2024-11-03 17:28:08.771 [info] Extension host with pid 1360 started
+2024-11-03 17:28:09.212 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-03 17:28:09.534 [info] Lock '/home/tommyoguro/.vscode-server/data/User/workspaceStorage/3d6e50e3cd5c84cea65c8b6297b04fb2/vscode.lock': Lock acquired.
+2024-11-03 17:28:09.724 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-03 17:28:09.725 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-03 17:28:13.498 [info] Eager extensions activated
+2024-11-03 17:28:13.502 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-03 17:28:13.506 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-03 17:28:15.486 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-03 18:29:37.750 [error] Error: read ECONNRESET
+	at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+2024-11-03 22:12:17.869 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-11-03 22:12:24.861 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-11-03 22:12:24.862 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-11-03 22:12:24.863 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'

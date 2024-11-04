@@ -1,0 +1,17 @@
+2024-11-04 10:54:49.527 [info] Extension host with pid 1237 started
+2024-11-04 10:54:49.562 [info] Lock '/home/tommyoguro/.vscode-server/data/User/workspaceStorage/b1accd89538cbde5895154ea5ae5431d/vscode.lock': Lock acquired.
+2024-11-04 10:54:49.744 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-11-04 10:54:49.903 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-04 10:54:50.057 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-04 10:54:50.058 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-04 10:54:50.628 [info] Eager extensions activated
+2024-11-04 10:54:50.629 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-04 10:54:50.630 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-04 10:54:50.954 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-04 13:38:25.447 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-11-04 13:38:32.272 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-11-04 13:38:32.273 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-11-04 13:38:32.274 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-11-04 13:38:37.552 [warning] vscode.json-language-features - Code actions of kind 'quickfix' requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-11-05 00:02:46.254 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1702
+2024-11-05 00:02:45.095 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1702
