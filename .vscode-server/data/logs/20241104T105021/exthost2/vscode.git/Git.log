@@ -353,3 +353,8 @@
 2024-11-05 00:02:45.038 [warning] [Git][getBranch] No such branch: master
 2024-11-05 00:02:45.055 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
 2024-11-05 00:02:45.061 [info] > git status -z -uall [15ms]
+2024-11-05 00:03:45.441 [info] > git rev-list --count 2efdd402306cb0161034db4e57017c07159203f4.. -- /home/tommyoguro/ruby_oop_task/lib/shopping_app.rb [44ms]
+2024-11-05 00:03:45.445 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n3 --follow -- /home/tommyoguro/ruby_oop_task/lib/shopping_app.rb [2ms]
+2024-11-05 00:03:45.903 [info] > git check-ignore -v -z --stdin [13ms]
+2024-11-05 00:03:45.904 [info] > git check-ignore -v -z --stdin [8ms]
+2024-11-05 00:03:45.906 [info] > git check-ignore -v -z --stdin [5ms]

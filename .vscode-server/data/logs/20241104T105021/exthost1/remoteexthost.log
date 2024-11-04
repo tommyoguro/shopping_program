@@ -13,3 +13,4 @@
 2024-11-04 22:14:00.051 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
 2024-11-05 00:02:20.808 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1702
 2024-11-05 00:02:21.347 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1702
+2024-11-05 00:03:10.406 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1706
